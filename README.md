@@ -1,6 +1,6 @@
 ## pg_query_cli
 
-This is a cli wrapper for the normalization function of the excellent [pg_query_go](https://github.com/lfittl/pg_query_go) Go package. 
+This is a cli wrapper for the normalization function of the excellent [pg_query_go](https://github.com/brianbroderick/pg_query_cli/tree/master/vendor/github.com/lfittl/pg_query_go) Go package. 
 
 Assuming that your Go workspace is set up, run `go build`. If not, first visit [Golang](https://golang.org/) to set it up.
 Building the file may take a couple of minutes because it's compiling parts of the PG lib. Once it's done, you can run it like this:
