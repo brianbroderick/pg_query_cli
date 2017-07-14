@@ -22,8 +22,8 @@ FYI, there's an MRI specific Ruby gem at [pg_query](https://github.com/lfittl/pg
 
 ## License
 
-Copyright (c) 2017, [Brian Broderick](https://github.com/brianbroderick)
-pg_query_go package used by pg_query_cli is Copyright (c) 2015, Lukas Fittl <lukas@fittl.com>
+Copyright (c) 2017, [Brian Broderick](https://github.com/brianbroderick)<br>
+pg_query_go package used by pg_query_cli is Copyright (c) 2015, Lukas Fittl <lukas@fittl.com><br>
 pg_query_cli is licensed under the 3-clause BSD license, see LICENSE file for details.
 
 This project includes code derived from the [PostgreSQL project](http://www.postgresql.org/),
